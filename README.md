@@ -10,6 +10,12 @@ The definition of what is "good" can be considered highly subjective. In order t
 
 This license seeks to allow us to share our works as openly as possible, promoting what is uplifting and "good", while preventing what is harmful and destructive.
 
+## Applying The License To Your Work
+
+**THIS IS NOT LEGAL ADVICE**
+
+The Katharos License may be applied to your work as you would apply any other license. Common practice is to include the [license file](./LICENSE.md) in the root of your software source control as `LICENSE.md` and replace the `[year]` and `[copyright holder]` placeholders in the copyright statement with the current year and the name of the copyright holder.
+
 ## Attribution
 
 The Katharos License was inspired by the the [Ethical Open Source][eos] movement and has incorporated modified and verbatim portions of the following licenses:
@@ -19,3 +25,7 @@ The Katharos License was inspired by the the [Ethical Open Source][eos] movement
 - [BSD 3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)
 
 [eos]: https://ethicalsource.dev/
+
+## Disclaimer
+
+The Katharos License is offered for use by licensors and licensees at their own risk, on an “AS IS” basis, and with no warranties express or implied, to the maximum extent permitted by Laws. **NONE OF THE CONTENTS OF THIS REPOSITORY CONSTITUTES LEGAL ADVICE**.
