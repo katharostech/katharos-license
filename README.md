@@ -10,6 +10,15 @@ The definition of what is "good" can be considered highly subjective. In order t
 
 This license seeks to allow us to share our works as openly as possible, promoting what is uplifting and "good", while preventing what is harmful and destructive.
 
+## Open Questions
+
+The Katharos License is a work-in-progress. There have been [concerns] brought up about the usability of the license and it is worth understanding them before using a Katharos Licensed work for your own project. This license goes into uncharted territory as far as licenses go and we understand that it is non-typical, but as far as we are concerned our only alternative is to close source our works and this license is an attempt to avoid the need to do that.
+
+You can comment on the already opened [issue][concerns] or open a new [discussion] if you have questions or would like to discuss some aspect of the license.
+
+[concerns]: https://github.com/katharostech/bevy_retro/issues/1
+[discussion]: https://github.com/katharostech/katharos-license/discussions
+
 ## Applying The License To Your Work
 
 **THIS IS NOT LEGAL ADVICE**
