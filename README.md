@@ -1,5 +1,15 @@
 # The Katharos License
 
+> As soon as we can, we will be starting a third draft of the license. This will include:
+>
+> - An updated preamble making its separation from the terms of the license clear
+> - An attempt to clarify the sexual and violence terms
+> - Changing the license's arbitration rules from the "Hague Rules on Business and Human Rights Arbitration" to the Kleros Court.
+> 
+> We will also create an FAQ to inform people about the common questions and answers regarding our license
+>
+> We hope that this will help address some of the common questions and concerns about our license from the community.
+
 Katharos is the Greek word for "pure" and, correspondingly, the purpose of the Katharos license is to prevent the licensed work from being used to promote destructive activities or to produce other impure or destructive works.
 
 With the Katharos License we want to promote the openness, sharing, and collaboration that is common in the Open Source community, while at the same time protecting the people who may otherwise become victims of the destructive application of our shared works. We want the works that we share to be uplifting and helpful and we want them to be used to benefit people.
