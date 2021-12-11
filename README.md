@@ -1,6 +1,6 @@
 # The Katharos License
 
-> As soon as we can, we will be starting a third draft of the license. This will include:
+> **ℹ️ Note:** As soon as we can, we will be starting a third draft of the license. This will include:
 >
 > - An updated preamble making its separation from the terms of the license clear
 > - An attempt to clarify the sexual and violence terms
