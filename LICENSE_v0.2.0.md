@@ -1,6 +1,8 @@
-# The Katharos License v0.2.0 ( Draft )
+# The Katharos License v0.2.0
 
 ## Preamble
+
+**THIS PREAMBLE SECTION DOES NOT DEFINE ANY TERMS OF USE OR IMPOSE ANY RESTRICTIONS ON THE USE OF THE LICENSED WORK. IT IS PURELY INFORMATIONAL. ALL LICENSE TERMS ARE DEFINED IN DETAIL BELOW IN "TERMS AND CONDITIONS".**
 
 Katharos is the Greek word for "pure" and, correspondingly, the purpose of the Katharos license is to prevent the licensed work from being used to promote destructive activities or to produce other impure or destructive works.
 
@@ -8,9 +10,11 @@ The Katharos License is not an "Open Source" license in the official sense: it h
 
 To accomplish these goals, this license seeks to put limits on what people are allowed to do with the licensed work. This includes, among other things, disallowing the work to be incorporated in or used to produce sexually suggestive or explicit content which we believe is mentally, psychologically, and spiritually harmful.
 
-The definition of what is "good" can be considered highly subjective. In order to maintain objectivity in a highly subjective matter, there must be some source of truth from which to derive said objectivity. The source of "truth" for the Katharos License, and where the definition of what is "good" and "pure", come from the Word of God, The Holy Bible. The Katharos License is based on the premise that the full 66 books of the Holy Bible are 100% true and inspired by God and that He alone is the ultimate authority for what is good and just.
+The definition of what is "good", though, can be considered highly subjective. Our idea of what is good and pure comes from our interpretation of The Word of God, The Holy Bible, and we believe that God is the ultimate authority for what is good and right.
 
-This license seeks to allow us to share our works as openly as possible, promoting what is uplifting and "good", while preventing what is harmful and destructive.
+The terms of this license reflect what we believe God has put on our hearts to include in this license, and we acknowledge that our attempt to define its terms will be imperfect, and that human laws cannot flawlessly reflect the will of God. Nonetheless, the fact remains that we believe God led us to create this license and that it is our due diligence to protect what we believe is important.
+
+Many people will not agree with the terms, but it is not our goal to make a license that many will agree with. Our goal is to stand up for what we believe in and do what we believe is right, while being as free and open as otherwise possible.
 
 [osi]: https://opensource.org/
 [osd]: https://opensource.org/docs/osd
@@ -59,19 +63,12 @@ Neither the name of the copyright holder nor the names of its contributors may b
 
 ### 6. Permitted Use of Work
 
-**6.1** The Work shall not be Used by any person or entity to display, market, or distribute images, artwork, or any other media that is:
+**6.1** The Work shall not be Used by any person or entity to display, market, or distribute images, artwork, or any other media that:
 
-- sexually suggestive or explicit
-- excessively gory:
-
-  This includes:
-
-    - display of the ejection of internal organs
-    - excessively detailed depiction of mutilation or maiming
-
-   This does not include:
-
-    - general representation of death or violence that is not excessively gory
+- is obscene
+- is sexually explicit or suggestive
+- depicts nudity or pornography
+- contains detailed depictions of gore
 
 **6.2** The Work shall not be Used by any person or entity to support or aid in the execution of acts of:
 
@@ -88,28 +85,24 @@ Neither the name of the copyright holder nor the names of its contributors may b
 - murder
 - mass surveillance and/or stealing of private information
 
-   <!-- TODO: How do we put or not put that in there: - hate speech or discrimination based on age, gender, gender identity, race, sexuality, religion, nationality -->
-
 **6.3** The Work shall not be Used by any person or entity to frustrate, discourage, or prevent:
 
 - peaceful assembly and association (including worker associations)
 - democratic processes
 
-**6.4** If you allow, serve, or otherwise provide the ability to Use the Work or any other work that Uses the Work to any other persons or entities, you must ensure that such service provides the necessary notice as defined in Section 3 and you must require that all users of the work must also comply with the Permitted Use of Work defined here in Section 5.
+**6.4** If you allow, serve, or otherwise provide the ability to Use the Work or any other work that Uses the Work to any other persons or entities, you must ensure that such service provides the necessary notice as defined in Section 3 and you must require that all users of the work must also comply with the Permitted Use of Work defined here in Section 6.
 
-### 7. Compliance with Permitted Use of Work & Human Rights Laws
+### 7. Compliance with Permitted Use of Work
 
 **7.1** Permitted Use of Work.
 
 - **7.1.2** Licensee shall use the Work in a manner consistent with Permitted Use of Work defined above.
 
-- **7.1.3** Unless the Licensor and Licensee agree otherwise, any dispute, controversy, or claim arising out of or relating to (i) Section 7.1.2 regarding Permitted Use of Work, including the breach of Section 7.1.2, termination of this License for breach of the Permitted Use of Work, or invalidity of Section 7.1.2 or (ii) a determination of whether any Law is consistent or in conflict with Permitted Use of Work pursuant to Section 7.2, below, shall be settled by arbitration in accordance with the Hague Rules on Business and Human Rights Arbitration (the “Rules”); provided, however, that Licensee may elect not to participate in such arbitration, in which event this License (and all rights licensed hereunder) shall end immediately. The number of arbitrators shall be one unless the Rules require otherwise.
+- **7.1.3** Unless the Licensor and Licensee agree otherwise, any dispute, controversy, or claim arising out of or relating to (i) Section 7.1.2 regarding Permitted Use of Work, including the breach of Section 7.1.2, termination of this License for breach of the Permitted Use of Work, or invalidity of Section 7.1.2 or (ii) a determination of whether any Law is consistent or in conflict with Permitted Use of Work pursuant to Section 7.2, below, shall be settled by arbitration in the [Kleros] court.
 
-  Unless both the Licensor and Licensee agree to the contrary: (1) All documents and information concerning the arbitration shall be public and may be disclosed by any party; (2) The repository referred to under Article 43 of the Rules shall make available to the public in a timely manner all documents concerning the arbitration which are communicated to it, including all submissions of the parties, all evidence admitted into the record of the proceedings, all transcripts or other recordings of hearings and all orders, decisions and awards of the arbitral tribunal, subject only to the arbitral tribunal’s powers to take such measures as may be necessary to safeguard the integrity of the arbitral process pursuant to Articles 18, 33, 41 and 42 of the Rules; and (3) Article 26(6) of the Rules shall not apply.
+**7.2** Indemnity. Licensee shall hold harmless and indemnify Licensor (and any other contributor) against all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including Licensor’s reasonable attorneys’ fees, arising out of or relating to Licensee’s use of the Software in violation of Permitted Use of Work.
 
-**7.2** Human Rights Laws. The Software shall not be used by any person or entity for any systems, activities, or other uses that violate any Human Rights Laws. “Human Rights Laws” means any applicable laws, regulations, or rules (collectively, “Laws”) that protect human, civil, labor, privacy, political, environmental, security, economic, due process, or similar rights; provided, however, that such Laws are consistent and not in conflict with Permitted Use of Work (a dispute over the consistency or a conflict between Laws and Permitted Use of Work shall be determined by arbitration as stated above). Where the Human Rights Laws of more than one jurisdiction are applicable or in conflict with respect to the use of the Work, the Human Rights Laws that are most protective shall apply.
-
-**7.3** Indemnity. Licensee shall hold harmless and indemnify Licensor (and any other contributor) against all losses, damages, liabilities, deficiencies, claims, actions, judgments, settlements, interest, awards, penalties, fines, costs, or expenses of whatever kind, including Licensor’s reasonable attorneys’ fees, arising out of or relating to Licensee’s use of the Software in violation of Human Rights Laws or Permitted Use of Work.
+[Kleros]: https://kleros.io/
 
 ### 8. Failure to Comply
 
@@ -117,7 +110,7 @@ Any failure of Licensee to act according to the terms and conditions of this Lic
 
 ### 9. Enforceability and Interpretation
 
-If any term or provision of this License is determined to be invalid, illegal, or unenforceable by a court of competent jurisdiction, then such invalidity, illegality, or unenforceability shall not affect any other term or provision of this License or invalidate or render unenforceable such term or provision in any other jurisdiction; provided, however, subject to a court modification pursuant to the immediately following sentence, if any term or provision of this License pertaining to Human Rights Laws or Permitted Use of Work is deemed invalid, illegal, or unenforceable against Licensee by a court of competent jurisdiction, all rights in the Work granted to Licensee shall be deemed null and void as between Licensor and Licensee. Upon a determination that any term or provision is invalid, illegal, or unenforceable, to the extent permitted by Laws, the court may modify this License to affect the original purpose that the Work be used in compliance with Permitted Use of Work and Human Rights Laws as closely as possible. The language in this License shall be interpreted as to its fair meaning and not strictly for or against any party.
+If any term or provision of this License is determined to be invalid, illegal, or unenforceable by a court of competent jurisdiction, then such invalidity, illegality, or unenforceability shall not affect any other term or provision of this License or invalidate or render unenforceable such term or provision in any other jurisdiction; provided, however, subject to a court modification pursuant to the immediately following sentence, if any term or provision of this License pertaining to Permitted Use of Work is deemed invalid, illegal, or unenforceable against Licensee by a court of competent jurisdiction, all rights in the Work granted to Licensee shall be deemed null and void as between Licensor and Licensee. Upon a determination that any term or provision is invalid, illegal, or unenforceable, to the extent permitted by Laws, the court may modify this License to affect the original purpose that the Work be used in compliance with Permitted Use of Work as closely as possible. The language in this License shall be interpreted as to its fair meaning and not strictly for or against any party.
 
 ### 10. Revised Versions of this License
 
