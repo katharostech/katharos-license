@@ -82,6 +82,7 @@ The Katharos License was inspired by the the [Ethical Open Source][eos] movement
 - [Hippocratic License Version 2.1](https://firstdonoharm.dev/version/2/1/license.html)
 - [Do No Harm License](https://github.com/raisely/NoHarm)
 - [BSD 3-Clause](https://spdx.org/licenses/BSD-3-Clause.html)
+- [GNU General Public License Version 3 ( GPLv3 )](http://www.gnu.org/licenses/gpl-3.0.html)
 
 [eos]: https://ethicalsource.dev/
 
