@@ -27,6 +27,14 @@ We don't expect it to be any perfect solution, or think that it will work for ev
 
 These are common points made in argument against the license and our response to them.
 
+### The Terms Are Too Vague
+
+Defining things such as modesty and violence in exact terms that will be interpreted the same by everybody is essentially impossible. We recognize that our terms may not be perfect and are subject to interpretation, but if it comes to disputes on our terms, according to the license, they will be decided by an impartial jury in the [Kleros] court, not by us, preventing us from introducing our own personal bias on the ruling.
+
+We may release updates to the license terms in new versions of the license if we feel that there is a deficiency in the terms that can be helped.
+
+[Kleros]: https://kleros.io/
+
 ### The Bible Contradicts Itself
 
 See [What About Bible Contradictions][contradictions] by [Michael Paul Johnson][mpj].
