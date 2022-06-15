@@ -35,6 +35,12 @@ We may release updates to the license terms in new versions of the license if we
 
 [Kleros]: https://kleros.io/
 
+### The License is Non-Inclusive
+
+The license applies equally to all people of any race, gender, religion, etc. and does not make any distinctions in it's terms.
+
+Sharing our motivations for making the license and our intended purpose doesn't exclude anybody from using it, nor does it imply that anybody who does not believe what we do is granted any less freedoms or respect.
+
 ### The Bible Contradicts Itself
 
 See [What About Bible Contradictions][contradictions] by [Michael Paul Johnson][mpj].
