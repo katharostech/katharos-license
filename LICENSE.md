@@ -1,1 +1,1 @@
-LICENSE_v0.0.1.md
+LICENSE_v0.0.2.md
