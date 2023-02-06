@@ -1,4 +1,4 @@
-# The Big Butts License v0.0.1
+# The Big Butts License v0.0.2
 
 ## Preamble
 
