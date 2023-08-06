@@ -2,7 +2,7 @@
 
 Katharos is the Greek word for "pure" and, correspondingly, the purpose of the Katharos license is to prevent the licensed work from being used to promote destructive activities or to produce other impure or destructive works.
 
-The Katharos License is not an "Open Source" license in the official sense: it has not been reviewed or approved by the [Open Source Initiative][osi] and may or may not comply with the [Open Source Definition][osd]. Even still, we want the Katharos License to promote the openness, sharing, and collaboration that is common in the Open Source community, while at the same time protecting the people who may otherwise become victims of the destructive application of our shared works. We want the works that we share to be uplifting and helpful and we want them to be used to benefit people.
+The Katharos License is not an "Open Source" license: it does not comply with the [Open Source Definition][osd]. Even still, we want the Katharos License to promote the openness, sharing, and collaboration that is common in the Open Source community, while at the same time protecting the people who may otherwise become victims of the destructive application of our shared works. We want the works that we share to be uplifting and helpful and we want them to be used to benefit people.
 
 To accomplish these goals, this license seeks to put limits on what people are allowed to do with the licensed work. This includes, among other things, disallowing the work to be incorporated in or used to produce sexually suggestive or explicit content which we believe is mentally, psychologically, and spiritually harmful.
 
